@@ -1,7 +1,7 @@
 # B3-HD-Vehicle-Icons
 by TheGoat07s
 
-It's like Burnout Revenge had a PC version.
+No more pixelated vehicle icons!
 
 > [!IMPORTANT]
 > This texture pack is intended for PCSX2
